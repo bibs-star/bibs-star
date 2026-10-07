@@ -1,9 +1,6 @@
-## Hi there 👋
+##hey there<!-- Profile Views (Left Aligned) -->
 
-<!--
-**bibs-star/bibs-star** is a ✨ _spe<!-- Profile Views (Left Aligned) -->
-
-<p align="left">   <img src="https://komarev.com/ghpvc/?username=bibekmaharjan&color=brightgreen" alt="Profile views" /> </p>
+<p align="left">   <img src="https://komarev.com/ghpvc/?username=bibekmaharjan &color=brightgreen" alt="Profile views" /> </p>
 
 <!-- Animated Typing Header (Centered) -->
 
@@ -55,17 +52,11 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunnyKoirala&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=bibek maharjan&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SunnyKoirala&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<p align="center">   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bibekmmaharjan&theme=tokyonight&hide_border=true" height="180" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyKoirala&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek maharjan&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 ---
 
@@ -95,16 +86,3 @@
 <h3 align="center">
   🔥 “Travel. Learn. Code. Build. Repeat.” 🚀
 </h3>
-cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
